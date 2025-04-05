@@ -50,7 +50,7 @@ Before setting up Active Directory, we need to create a Domain Controller (DC).
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/LWfPANn.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/7lw8HP7.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
