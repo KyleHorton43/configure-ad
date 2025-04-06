@@ -299,9 +299,7 @@ Active Directory Infrastructure has successfully been set up in Azure, including
   
 </p>
 <br />
-<p>
-<img src="" height="80%" width="80%" alt=""/>
-</p>
+
 
 
 
