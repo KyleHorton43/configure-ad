@@ -100,11 +100,27 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/ViUJVvv.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/E6kIQTV.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/0H3bJea.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Gv3EjKq.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/4H8GlBn.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -131,7 +147,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -156,7 +172,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -172,7 +188,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -198,7 +214,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 
 <h1>Conclusion</h1>
@@ -217,7 +233,7 @@ Active Directory Infrastructure has successfully been set up in Azure, including
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 
 
