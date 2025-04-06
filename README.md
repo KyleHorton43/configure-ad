@@ -119,10 +119,7 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 <img src="https://i.imgur.com/4H8GlBn.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
-<p>
-<img src="" height="80%" width="80%" alt=""/>
-</p>
-<br />
+
 
 <h2>12. Creating a Domain Admin Account</h2>
 
@@ -147,7 +144,31 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/vp74NPz.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/p4sDNcT.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/uhuuwcU.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/exlgT5u.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/eyIn1rP.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/U450mxz.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/45hoVwg.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -172,9 +193,34 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/WijbFhW.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/PDFFUTk.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/f4WkLRB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/wNgufun.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/PkmJyW0.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/LwdtTsj.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/IpBwaTc.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
 
 <h1>Phase 4: Managing Users and Remote Access</h1>
 <h2>1. Enabling Remote Desktop for Domain Users</h2>
