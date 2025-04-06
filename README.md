@@ -234,7 +234,15 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/hMtcXlV.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/c0Q0WTY.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/InufjzF.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -249,8 +257,8 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
    
       for ($i=1; $i -le 10; $i++) {
           $password = ConvertTo-SecureString "Cyberlab123!" -AsPlainText -Force
-          New-ADUser -Name "User$i" -SamAccountName "user$i" -UserPrincipalName "user$i@mydomain.com" `
-          -Path "OU=_EMPLOYEES,DC=mydomain,DC=com" -AccountPassword $password -Enabled $true
+          New-ADUser -Name "User$i" -SamAccountName "user$i" -UserPrincipalName "user$i@hortontech.com" `
+          -Path "OU=_EMPLOYEES,DC=hortontech,DC=com" -AccountPassword $password -Enabled $true
       }
 
 4. Confirm user creation in ADUC.
@@ -260,8 +268,21 @@ Once the Domain Controller is ready, the next step is configuring a Client machi
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/pHqZ4zi.png" height="80%" width="80%" alt=""/>
 </p>
+<br />
+<p>
+<img src="https://i.imgur.com/4kPiq8E.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/L4Vfyg2.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/J4UIyub.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
 
 <h1>Conclusion</h1>
 
